@@ -19,3 +19,4 @@ models -> admin -> views -> templates -> urls
 
 - List Bookmark
   - bookmark/views BookmarkListView
+  - bookmark/templates/bookmark/bookmark_list.html
