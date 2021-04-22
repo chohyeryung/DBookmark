@@ -16,3 +16,6 @@ models -> admin -> views -> templates -> urls
     - \_\_str\_\_()
   
 - bookmark/admin Bookmark
+
+- List Bookmark
+  - bookmark/views BookmarkListView
