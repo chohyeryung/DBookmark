@@ -41,4 +41,5 @@ models -> admin -> views -> templates -> urls
 - Bookmark Delete
   - bookmark/views BookmarkDeleteView
   - bookmark/templates/bookmark bookmark_confirm_delete.html, bookmark_list.html
+  - bookmark/urls bookmark:delete
   
